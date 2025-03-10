@@ -32,3 +32,14 @@ This project showcases a **Museum of Candy** webpage, built using **Bootstrap, J
 2. Open `index.html` in a browser. 
 3. Resize the browser window to observe the responsive behavior.
 4. Modify `styles.css` or `script.js` to explore further customizations.
+
+## Technologies Used
+- **HTML5** for semantic structure. 
+- **CSS3 & Bootstrap** for layout and responsiveness.
+- **JavaScript & jQuery** for interactive functionalities.
+- **Flexbox & Grid System** for advanced layout management.
+
+## Future Enhancements
+- Adding animations for better user engagement.
+- Implementing dynamic content updates with JavaScript.
+- Enhancing accessibility for a better user experience.
