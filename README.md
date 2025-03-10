@@ -21,3 +21,11 @@ This project showcases a **Museum of Candy** webpage, built using **Bootstrap, J
 - Used **Bootstrap breakpoints** to adjust layouts across devices.
 - Applied **CSS media queries** to fine-tune the design on smaller screens. 
 - Ensured images and text elements scale properly without distortion. 
+
+### Interactive Elements
+- Utilized **jQuery** for interactive components.
+- Implemented **smooth scrolling** and **hover effects** for enhanced user experience.
+- JavaScript enhancements to improve user engagement.
+
+## How to Use
+1. 
